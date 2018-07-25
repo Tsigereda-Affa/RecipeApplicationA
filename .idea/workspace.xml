@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e7def8b-ddd1-4d55-9082-2047e3aac64f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2e7def8b-ddd1-4d55-9082-2047e3aac64f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +15,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
+            <state relative-caret-position="246">
               <caret line="65" column="60" lean-forward="false" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -229,16 +227,15 @@
       <option name="presentableId" value="Default" />
       <updated>1532446428058</updated>
       <workItem from="1532446433051" duration="13719000" />
-      <workItem from="1532523768501" duration="10000" />
+      <workItem from="1532523768501" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13729000" />
+    <option name="totallyTimeSpent" value="14420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -292,7 +289,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
+        <state relative-caret-position="246">
           <caret line="65" column="60" lean-forward="false" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
